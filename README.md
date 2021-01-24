@@ -65,4 +65,4 @@ da linguagem JavaScript
     <p>este é um paragrafoSS</p>   
 ```
 
-:hand
+:hand:
