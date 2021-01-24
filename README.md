@@ -42,7 +42,7 @@ lista demarcada
 
 lista de Tarefas
 
--[x] Criar a página principal
--[] Criar a página da loja
--[] Finalizar a reunião com o cliente
--[] receber o pagamento
+- [x] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] receber o pagamento
