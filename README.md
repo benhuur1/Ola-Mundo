@@ -46,3 +46,9 @@ lista de Tarefas
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] receber o pagamento
+
+Num | Nome | Nota
+---|---|---
+1 | José | 10.0
+2 | Giovanna | 9.0
+3 | Josana | 9.1
