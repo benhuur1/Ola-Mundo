@@ -62,4 +62,5 @@ Não entendo direito para que serve o comando
 da linguagem JavaScript
 ```
 <h1>Esta é uma tag de titulo nível 1</h1>
+    <p>este é um paragrafo</p>   
 ```
