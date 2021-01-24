@@ -60,3 +60,6 @@ Num | Nome | Nota
 Não entendo direito para que serve o comando
 `document.getElementById()`
 da linguagem JavaScript
+```
+<h1>Esta é uma tag de titulo nível 1</h1>
+```
