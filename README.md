@@ -47,6 +47,8 @@ lista de Tarefas
 - [ ] Finalizar a reunião com o cliente
 - [ ] receber o pagamento
 
+# Tabela
+
 Num | Nome | Nota
 ---|---|---
 1 | José | 10.0
