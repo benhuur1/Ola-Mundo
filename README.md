@@ -56,3 +56,7 @@ Num | Nome | Nota
 3 | Josana | 9.1
 
 ## terminou a tabela
+
+Não entendo direito para que serve o comando
+`document.getElementById()`
+da linguagem JavaScript
