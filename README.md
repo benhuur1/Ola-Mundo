@@ -51,9 +51,9 @@ lista de Tarefas
 
 Num | Nome | Nota
 ---|---|---
-1 | José | 10.0
-2 | Giovanna | 9.0
-3 | Josana | 9.1
+1 | Aluno 1 | 10.0
+2 | Aluno 2 | 9.0
+3 | Aluno 3 | 9.1
 
 ## terminou a tabela
 
